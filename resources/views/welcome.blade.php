@@ -21,9 +21,8 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ml-auto">
-                    <a class="nav-item nav-link " href="#">Home</a>
                     <a class="nav-item nav-link active" href="#">Daftar Harga</a>
-                    <a class="nav-item nav-link" href="#">Tentang</a>
+                    <a class="nav-item nav-link" href="https://github.com/cekingx/sim-bu-pon">Source Code</a>
                 </div>
             </div>
         </nav>
