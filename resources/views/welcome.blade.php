@@ -22,7 +22,7 @@
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ml-auto">
                     <a class="nav-item nav-link active" href="#">Daftar Harga</a>
-                    <a class="nav-item nav-link" href="https://github.com/cekingx/sim-bu-pon">Source Code</a>
+                    <a class="nav-item nav-link" href="https://github.com/cekingx/sim-bu-pon">Lihat Kode</a>
                 </div>
             </div>
         </nav>
